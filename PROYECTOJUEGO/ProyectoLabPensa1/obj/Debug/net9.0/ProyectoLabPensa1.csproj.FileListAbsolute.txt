@@ -1,0 +1,14 @@
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\obj\Debug\net9.0\ProyectoLabPensa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\obj\Debug\net9.0\ProyectoLabPensa1.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\obj\Debug\net9.0\ProyectoLabPensa1.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\obj\Debug\net9.0\ProyectoLabPensa1.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\bin\Debug\net9.0\ProyectoLabPensa1.exe
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\bin\Debug\net9.0\ProyectoLabPensa1.deps.json
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\bin\Debug\net9.0\ProyectoLabPensa1.runtimeconfig.json
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\bin\Debug\net9.0\ProyectoLabPensa1.dll
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\bin\Debug\net9.0\ProyectoLabPensa1.pdb
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\obj\Debug\net9.0\ProyectoLabPensa1.dll
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\obj\Debug\net9.0\refint\ProyectoLabPensa1.dll
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\obj\Debug\net9.0\ProyectoLabPensa1.pdb
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\obj\Debug\net9.0\ProyectoLabPensa1.genruntimeconfig.cache
+C:\Users\Pablo\Desktop\New folder\PROYECTOJUEGO\ProyectoLabPensa1\obj\Debug\net9.0\ref\ProyectoLabPensa1.dll
